@@ -12,7 +12,6 @@ public class Test {
 
 		TestClass test = new TestStringBuilder();
 
-		test.Init();
 		test.Test();
 
 	}
